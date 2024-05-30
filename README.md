@@ -1,1 +1,3 @@
-Projeto de site com conteúdo sobre a história do Android https://lucaswyllamys.github.io/projeto-cordel/
+# projeto-cordel
+Projeto de site que exibe o Cordel Moderno de Milton Duarte com efeito paralax
+https://lucaswyllamys.github.io/projeto-cordel/
